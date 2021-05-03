@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?color=auto)
 
 <!--![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=100&section=header&text=SONGI&animation=fadeIn%10render&fontSize=40&fontAlignY=20)
 -->
