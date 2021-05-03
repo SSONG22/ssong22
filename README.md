@@ -1,4 +1,9 @@
 
+![header](https://capsule-render.vercel.app/api?color=auto)
+
+<!--![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=100&section=header&text=SONGI&animation=fadeIn%10render&fontSize=40&fontAlignY=20)
+-->
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssong22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -20,3 +25,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssong22&count_private=true&show_icons=true&theme=omni)](https://github.com/SSONG22/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
