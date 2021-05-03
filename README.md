@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssong22&hide=TeX&layout=compact)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssong22&count_private=true&show_icons=true&theme=omni)](https://github.com/SSONG22/github-readme-stats)
